@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://static.wikia.nocookie.net/great-characters/images/9/9c/9969BB46-D249-4BB8-96B4-BD410E1C5EA4.png/revision/latest?cb=20190702201828",
       "likes": 1
     },
     {
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Zurg",
+      "image": "https://static.wikia.nocookie.net/pixar/images/8/86/FE111586-19EE-447D-8902-9DD1745A2257.png/revision/latest?cb=20181126205610",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Ken",
+      "image": "https://static.wikia.nocookie.net/pixar-toy-story/images/e/e1/Ken_Carson.jpg/revision/latest/top-crop/width/360/height/450?cb=20181110075306",
+      "likes": 5,
+      "id": 10
     }
   ]
 }
